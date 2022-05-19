@@ -11,5 +11,11 @@ Creating a Node project🥳👾
     npm init -y
 * STEP FOUR: Create your index.js or other files
     touch index.js, touch myModule.js, touch story.txt, etc.
+    index.js could be your entry point file
+* Node packages are already written modules developed by someone else.
+    nodemon is a type of package that restarts the node application everytime you hit save.
+    -g saves a package globally rather than locally.
+* You should create a hidden file called .gitignore in order to avoid pushing unecessary items up to github
+ 
 
 
